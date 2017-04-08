@@ -1,0 +1,40 @@
+<!-- CSS Stylesheets with Relative Paths -->
+
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Bio.html</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header>
+    <h1>Student Bio</h1>
+  </header>
+
+  <div class="container">
+
+    <section id="main-bio">
+
+      <h2>Waqas Alsubayee</h2>
+
+      <img id="bio-image" src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/6/005/066/3e7/04dbbc7.jpg"width="200px" height="200px" alt="Waqas">
+
+      <p>I am GIS Analyst</p>
+    </section>
+
+    <section id="contact-info">
+      <h2>Contact Info</h2>
+      <ul>
+        <li><strong>Email:</strong> <a href="#">walsubayee@yahoo.com</a></li>
+        <li><strong>Github:</strong> <a href="#">Waqas84</a></li>
+        <li><strong>Portfolio:</strong> <a href="#">coming soon</a></li>
+      </ul>
+    </section>
+  </div>
+
+</body>
+
+</html>
